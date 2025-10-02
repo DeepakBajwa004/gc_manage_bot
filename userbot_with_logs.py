@@ -11,7 +11,8 @@ LOG_CHANNEL = -1003124012321
 MAIN_GROUP = -1002777315896  # Your group ID
 
 SHORTENER_API_KEY = "6e633aea4aaf1dba0797e8b732de0f65183d9c7a"
-DEFAULT_REMOVE_TIME = 0.0056  # 20 seconds for testing
+DEFAULT_REMOVE_TIME = 24
+
 # ==========================================
 
 print("🔧 Initializing bot...")
